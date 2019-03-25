@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="calculateBMI">Calculate BMI</string>
+
+    <string name="very_severely_underweight">Very Severely Underweight</string>
+    <string name="severely_underweight">Severely Underweight</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Over Weight</string>
+    <string name="obese_class_i">Obese Class I (Moderately Obese)</string>
+    <string name="obese_class_ii">Obese Class II (Severely Obese)</string>
+    <string name="obese_class_iii">Obese Class III (Very Severely Obese)</string>
+    <string-array name="tipsString">
+        <item>1. Drink more water and cut out sugar-sweetened drinks</item>
+        <item>2. Limit screen time</item>
+        <item>3. Take ANY opportunity to move!</item>
+        <item>4. Start your day with a healthy breakfast</item>
+        <item>5. Make a point of eating at least five fruits and vegetables a day</item>
+        <item>6. Family meals are best</item>
+        <item>7. Be a smart snacker</item>
+        <item>8. Get moving!</item>
+        <item>9. Eat with a plan</item>
+        <item>10. Fill up on fruits and veggies</item>
+        <item>11. Slow down the fast food.</item>
+        <item>12. Cut out high calorie drinks</item>
+        <item>13. Eat healthy</item>
+        <item>14. Get—and stay—active</item>
+        <item>15. Eat only when you’re hungry and eat only real foods</item>
+        <item>16. Stay away from sodas and soft drinks</item>
+
+    </string-array>
+    <string-array name="risksString">
+        <item>1. High blood glucose (sugar) or diabetes</item>
+        <item>2. High blood pressure (hypertension)</item>
+        <item>3. High blood cholesterol and triglycerides (dyslipidemia, or high blood fats)</item>
+        <item>4. Heart attacks due to coronary heart disease, heart failure, and stroke.</item>
+        <item>5. Bone and joint problems, more weight puts pressure on the bones and joints.
+            This can lead to osteoarthritis, a disease that causes joint pain and stiffness.</item>
+        <item>6. Stopping breathing during sleep (sleep apnea).
+            This can cause daytime fatigue or sleepiness, poor attention, and problems at work.</item>
+        <item>7. Gallstones and liver problems.</item>
+        <item>8. Some cancers.</item>
+        <item>9. Body pain and difficulty with physical functioning</item>
+        <item>10. Mental illness such as clinical depression, anxiety, and other mental disorders</item>
+        <item>11. Osteoarthritis (a breakdown of cartilage and bone within a joint)</item>
+        <item>12. Sleep apnea and breathing problems</item>
+        <item>13. Coronary heart disease</item>
+        <item>14. All-causes of death (mortality)</item>
+        <item>15. High LDL cholesterol, low HDL cholesterol, or high levels of triglycerides (Dyslipidemia)</item>
+    </string-array>
+</resources>
